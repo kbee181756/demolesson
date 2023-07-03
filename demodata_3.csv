@@ -1,0 +1,1002 @@
+employee_id,age,income,education,department
+ADK6843,63,"45,033",Master,human resource
+ADK6844,20,"72,539",PhD,finance
+ADK6845,46,"8,178",Bachelor,human resource
+ADK6846,52,"26,192",Master,customer support
+ADK6847,56,"48,145",Master,human resource
+ADK6848,35,"63,323",High School,human resource
+ADK6849,37,"48,956",PhD,customer support
+ADK6850,60,"48,565",Bachelor,sales
+ADK6851,40,"48,174",Master,marketing
+ADK6852,51,"23,557",Bachelor,finance
+ADK6853,50,"67,371",Bachelor,customer support
+ADK6854,27,"39,759",Bachelor,operations
+ADK6855,50,"66,343",Master,human resource
+ADK6856,64,"48,942",Master,research
+ADK6857,50,"66,022",Bachelor,human resource
+ADK6858,43,"55,149",High School,operations
+ADK6859,37,"48,400",Bachelor,research
+ADK6860,32,"53,394",High School,customer support
+ADK6861,54,"27,905",Master,marketing
+ADK6862,50,"50,090",Bachelor,sales
+ADK6863,34,"75,741",Bachelor,human resource
+ADK6864,22,"69,623",High School,marketing
+ADK6865,21,"35,225",Bachelor,sales
+ADK6866,20,"57,585",PhD,research
+ADK6867,38,"53,720",Master,customer support
+ADK6868,57,"62,258",PhD,research
+ADK6869,20,"51,412",High School,operations
+ADK6870,38,"46,497",PhD,human resource
+ADK6871,25,"69,959",Master,sales
+ADK6872,59,"53,246",High School,customer support
+ADK6873,53,"68,832",High School,operations
+ADK6874,46,"64,616",High School,human resource
+ADK6875,56,"45,133",Bachelor,research
+ADK6876,51,"47,495",High School,sales
+ADK6877,39,"78,947",PhD,marketing
+ADK6878,48,"52,872",High School,customer support
+ADK6879,45,"38,621",Master,operations
+ADK6880,52,"31,999",Master,research
+ADK6881,51,"64,612",PhD,marketing
+ADK6882,30,"52,404",High School,sales
+ADK6883,58,"38,119",PhD,finance
+ADK6884,21,"60,119",Bachelor,operations
+ADK6885,60,"52,396",PhD,marketing
+ADK6886,23,"25,093",PhD,finance
+ADK6887,18,"58,830",High School,human resource
+ADK6888,29,"69,998",High School,sales
+ADK6889,52,"88,398",Master,sales
+ADK6890,28,"50,524",Bachelor,sales
+ADK6891,40,"53,490",Bachelor,operations
+ADK6892,31,"74,099",PhD,sales
+ADK6893,36,"52,531",High School,customer support
+ADK6894,54,"54,130",Bachelor,sales
+ADK6895,33,"40,541",Bachelor,customer support
+ADK6896,61,"29,084",PhD,finance
+ADK6897,45,"63,690",Master,customer support
+ADK6898,62,"30,896",High School,research
+ADK6899,48,"67,110",Bachelor,sales
+ADK6900,24,"38,178",Master,research
+ADK6901,63,"53,979",High School,customer support
+ADK6902,44,"44,416",PhD,research
+ADK6903,34,"67,619",Master,research
+ADK6904,24,"54,513",Master,operations
+ADK6905,32,"79,386",PhD,human resource
+ADK6906,57,"33,745",High School,marketing
+ADK6907,29,"56,208",High School,operations
+ADK6908,25,"50,710",Bachelor,customer support
+ADK6909,19,"54,199",Master,customer support
+ADK6910,61,"73,939",High School,marketing
+ADK6911,55,"58,780",Master,sales
+ADK6912,43,"32,787",PhD,finance
+ADK6913,38,"58,003",High School,customer support
+ADK6914,30,"43,766",Bachelor,research
+ADK6915,36,"42,900",PhD,human resource
+ADK6916,35,"65,688",High School,customer support
+ADK6917,19,"40,965",High School,sales
+ADK6918,62,"44,304",High School,research
+ADK6919,59,"50,486",High School,research
+ADK6920,45,"64,193",Master,research
+ADK6921,40,"58,724",Bachelor,customer support
+ADK6922,21,"46,484",Master,marketing
+ADK6923,21,"45,917",High School,customer support
+ADK6924,29,"32,598",PhD,human resource
+ADK6925,39,"38,602",Master,sales
+ADK6926,43,"40,184",Bachelor,operations
+ADK6927,57,"47,761",Bachelor,marketing
+ADK6928,59,"79,801",High School,human resource
+ADK6929,52,"39,868",Master,human resource
+ADK6930,21,"45,563",High School,finance
+ADK6931,29,"19,214",High School,sales
+ADK6932,21,"59,009",Bachelor,finance
+ADK6933,48,"26,338",Bachelor,research
+ADK6934,24,"36,401",Master,sales
+ADK6935,27,"65,635",PhD,operations
+ADK6936,41,"18,426",Bachelor,human resource
+ADK6937,32,"51,439",High School,customer support
+ADK6938,56,"62,014",High School,research
+ADK6939,37,"72,882",PhD,marketing
+ADK6940,24,"36,199",Master,finance
+ADK6941,30,"40,640",High School,research
+ADK6942,45,"77,067",Master,research
+ADK6943,56,"49,624",Bachelor,sales
+ADK6944,35,"38,956",Bachelor,customer support
+ADK6945,64,"39,238",Master,marketing
+ADK6946,28,"35,412",High School,sales
+ADK6947,53,"43,405",High School,customer support
+ADK6948,53,"66,323",High School,sales
+ADK6949,19,"63,316",Bachelor,customer support
+ADK6950,63,"32,386",High School,operations
+ADK6951,34,"53,219",Bachelor,customer support
+ADK6952,23,"43,968",High School,operations
+ADK6953,58,"61,737",Bachelor,sales
+ADK6954,63,"47,655",PhD,customer support
+ADK6955,40,"55,573",Master,marketing
+ADK6956,64,"47,621",Master,operations
+ADK6957,33,"17,194",Master,finance
+ADK6958,58,"50,705",PhD,operations
+ADK6959,43,"30,924",PhD,operations
+ADK6960,63,"61,207",High School,human resource
+ADK6961,18,"39,803",High School,sales
+ADK6962,53,"40,925",High School,research
+ADK6963,47,"49,866",High School,operations
+ADK6964,19,"58,667",Bachelor,customer support
+ADK6965,37,"47,454",Master,human resource
+ADK6966,22,"74,633",PhD,human resource
+ADK6967,48,"74,732",Master,sales
+ADK6968,25,"75,732",Master,customer support
+ADK6969,47,"46,485",PhD,operations
+ADK6970,56,"27,771",Bachelor,sales
+ADK6971,19,"68,301",Master,research
+ADK6972,30,"43,755",Master,research
+ADK6973,21,"50,572",High School,marketing
+ADK6974,62,"59,425",PhD,customer support
+ADK6975,25,"25,933",Bachelor,human resource
+ADK6976,56,"74,437",PhD,sales
+ADK6977,42,"63,124",High School,marketing
+ADK6978,24,"55,284",Master,customer support
+ADK6979,31,"63,364",Bachelor,human resource
+ADK6980,46,"58,354",Bachelor,research
+ADK6981,62,"51,752",PhD,human resource
+ADK6982,38,"45,383",Bachelor,human resource
+ADK6983,54,"38,913",High School,human resource
+ADK6984,50,"54,308",High School,customer support
+ADK6985,58,"55,418",Bachelor,marketing
+ADK6986,42,"66,248",High School,finance
+ADK6987,63,"53,010",PhD,operations
+ADK6988,31,"37,202",Master,human resource
+ADK6989,26,"26,357",Bachelor,research
+ADK6990,32,"48,087",Master,finance
+ADK6991,24,"49,588",Master,research
+ADK6992,19,"48,529",High School,operations
+ADK6993,48,"27,042",PhD,human resource
+ADK6994,24,"66,117",PhD,marketing
+ADK6995,58,"66,089",PhD,research
+ADK6996,28,"37,651",Bachelor,research
+ADK6997,30,"62,090",Master,sales
+ADK6998,30,"64,292",High School,human resource
+ADK6999,43,"50,577",PhD,marketing
+ADK7000,60,"35,773",Bachelor,finance
+ADK7001,25,"74,201",High School,human resource
+ADK7002,31,"55,714",PhD,customer support
+ADK7003,62,"46,234",Master,research
+ADK7004,19,"61,593",PhD,marketing
+ADK7005,59,"74,333",Master,operations
+ADK7006,32,"42,543",Bachelor,human resource
+ADK7007,41,"60,371",PhD,research
+ADK7008,51,"79,147",Master,operations
+ADK7009,21,"33,252",Master,finance
+ADK7010,35,"41,761",Master,customer support
+ADK7011,42,"41,032",Bachelor,research
+ADK7012,64,"47,625",PhD,customer support
+ADK7013,41,"46,850",PhD,customer support
+ADK7014,23,"54,512",Master,operations
+ADK7015,51,"37,694",Master,research
+ADK7016,55,"40,660",PhD,sales
+ADK7017,20,"54,519",High School,research
+ADK7018,36,"52,324",High School,sales
+ADK7019,64,"63,111",Master,sales
+ADK7020,63,"56,140",Master,finance
+ADK7021,53,"61,578",High School,finance
+ADK7022,36,"32,856",PhD,sales
+ADK7023,45,"44,249",PhD,marketing
+ADK7024,64,"77,726",Bachelor,research
+ADK7025,27,"55,881",PhD,human resource
+ADK7026,35,"61,211",High School,finance
+ADK7027,21,"54,091",Master,human resource
+ADK7028,29,"56,380",PhD,finance
+ADK7029,44,"46,536",PhD,finance
+ADK7030,46,"103,574",Bachelor,human resource
+ADK7031,29,"44,058",Bachelor,marketing
+ADK7032,28,"49,425",High School,operations
+ADK7033,21,"13,627",Master,human resource
+ADK7034,63,"66,594",PhD,sales
+ADK7035,41,"41,716",Bachelor,research
+ADK7036,43,"49,088",PhD,marketing
+ADK7037,45,"42,079",PhD,finance
+ADK7038,64,"47,920",High School,human resource
+ADK7039,21,"45,736",Master,human resource
+ADK7040,53,"49,354",Master,operations
+ADK7041,32,"49,208",Bachelor,human resource
+ADK7042,39,"47,687",Master,research
+ADK7043,41,"47,482",High School,research
+ADK7044,41,"69,628",Master,marketing
+ADK7045,54,"63,221",High School,research
+ADK7046,22,"63,312",PhD,research
+ADK7047,23,"39,013",Bachelor,research
+ADK7048,27,"68,852",High School,human resource
+ADK7049,20,"66,975",Bachelor,finance
+ADK7050,55,"41,699",Master,operations
+ADK7051,51,"72,858",High School,human resource
+ADK7052,23,"39,752",High School,research
+ADK7053,27,"22,370",Bachelor,research
+ADK7054,33,"66,523",PhD,sales
+ADK7055,46,"48,207",Bachelor,customer support
+ADK7056,20,"64,654",Bachelor,research
+ADK7057,28,"38,687",PhD,operations
+ADK7058,54,"31,073",Master,sales
+ADK7059,21,"68,478",High School,research
+ADK7060,21,"28,891",PhD,customer support
+ADK7061,41,"26,585",Bachelor,marketing
+ADK7062,45,"21,116",PhD,customer support
+ADK7063,52,"8,083",Master,customer support
+ADK7064,55,"34,413",PhD,sales
+ADK7065,41,"17,459",Master,human resource
+ADK7066,39,"49,466",Master,marketing
+ADK7067,43,"16,454",High School,sales
+ADK7068,35,"33,586",Master,human resource
+ADK7069,20,"84,981",Master,marketing
+ADK7070,63,"55,177",High School,operations
+ADK7071,28,"50,792",PhD,sales
+ADK7072,26,"25,689",High School,human resource
+ADK7073,50,"46,316",Bachelor,operations
+ADK7074,43,"50,722",Bachelor,customer support
+ADK7075,53,"25,922",High School,finance
+ADK7076,21,"51,893",High School,customer support
+ADK7077,19,"67,868",PhD,sales
+ADK7078,25,"44,776",Master,human resource
+ADK7079,24,"47,041",Bachelor,research
+ADK7080,53,"19,369",PhD,sales
+ADK7081,51,"29,011",PhD,operations
+ADK7082,57,"65,865",Master,finance
+ADK7083,36,"40,077",Master,marketing
+ADK7084,46,"36,054",PhD,sales
+ADK7085,56,"39,611",Bachelor,human resource
+ADK7086,23,"49,138",PhD,sales
+ADK7087,27,"32,624",Bachelor,marketing
+ADK7088,58,"51,898",Master,marketing
+ADK7089,59,"29,600",High School,research
+ADK7090,22,"61,610",Bachelor,customer support
+ADK7091,41,"34,144",PhD,operations
+ADK7092,58,"69,804",PhD,operations
+ADK7093,39,"49,850",Bachelor,operations
+ADK7094,43,"37,315",PhD,customer support
+ADK7095,54,"63,672",High School,human resource
+ADK7096,62,"29,383",High School,sales
+ADK7097,46,"41,794",Master,finance
+ADK7098,53,"49,999",High School,finance
+ADK7099,37,"48,182",High School,human resource
+ADK7100,35,"19,871",Master,human resource
+ADK7101,57,"36,190",Master,marketing
+ADK7102,62,"52,524",PhD,human resource
+ADK7103,58,"30,202",Bachelor,human resource
+ADK7104,32,"68,996",PhD,marketing
+ADK7105,32,"57,428",High School,research
+ADK7106,41,"42,286",Bachelor,marketing
+ADK7107,46,"46,696",High School,operations
+ADK7108,34,"77,923",High School,sales
+ADK7109,64,"64,040",High School,research
+ADK7110,42,"55,703",High School,human resource
+ADK7111,33,"28,767",PhD,marketing
+ADK7112,34,"74,444",High School,customer support
+ADK7113,64,"65,786",High School,customer support
+ADK7114,64,"47,774",Master,marketing
+ADK7115,38,"41,755",PhD,research
+ADK7116,61,"47,181",PhD,research
+ADK7117,44,"31,971",PhD,marketing
+ADK7118,22,"42,938",High School,customer support
+ADK7119,39,"61,447",PhD,marketing
+ADK7120,50,"22,886",Bachelor,finance
+ADK7121,57,"45,289",High School,finance
+ADK7122,19,"51,706",Bachelor,operations
+ADK7123,52,"51,554",PhD,finance
+ADK7124,60,"32,316",High School,customer support
+ADK7125,36,"32,268",PhD,operations
+ADK7126,57,"66,337",High School,research
+ADK7127,44,"31,632",PhD,operations
+ADK7128,57,"65,130",Bachelor,operations
+ADK7129,53,"42,765",PhD,finance
+ADK7130,56,"66,197",Master,human resource
+ADK7131,19,"43,684",Master,customer support
+ADK7132,58,"32,503",High School,marketing
+ADK7133,35,"62,848",Master,sales
+ADK7134,63,"49,739",Master,research
+ADK7135,40,"71,729",Master,customer support
+ADK7136,43,"63,383",High School,marketing
+ADK7137,28,"46,559",High School,operations
+ADK7138,18,"43,255",PhD,finance
+ADK7139,53,"50,351",High School,operations
+ADK7140,37,"52,853",PhD,operations
+ADK7141,48,"36,774",Bachelor,finance
+ADK7142,25,"62,629",PhD,marketing
+ADK7143,57,"44,040",PhD,operations
+ADK7144,41,"43,655",Bachelor,human resource
+ADK7145,37,"41,890",High School,marketing
+ADK7146,32,"53,465",Master,marketing
+ADK7147,47,"39,619",Bachelor,human resource
+ADK7148,37,"52,025",Master,finance
+ADK7149,55,"91,499",Master,human resource
+ADK7150,19,"49,196",High School,human resource
+ADK7151,23,"43,490",PhD,marketing
+ADK7152,59,"24,985",PhD,sales
+ADK7153,35,"50,753",High School,research
+ADK7154,53,"33,362",Bachelor,operations
+ADK7155,31,"44,367",Bachelor,research
+ADK7156,43,"52,274",Master,research
+ADK7157,51,"24,035",PhD,sales
+ADK7158,47,"52,362",PhD,research
+ADK7159,24,"54,568",High School,customer support
+ADK7160,47,"30,543",High School,sales
+ADK7161,35,"44,115",High School,finance
+ADK7162,39,"22,540",PhD,finance
+ADK7163,34,"73,633",PhD,operations
+ADK7164,48,"54,958",PhD,human resource
+ADK7165,34,"47,306",PhD,human resource
+ADK7166,48,"47,548",High School,customer support
+ADK7167,30,"66,972",PhD,sales
+ADK7168,44,"48,588",PhD,customer support
+ADK7169,37,"54,962",PhD,marketing
+ADK7170,34,"72,779",PhD,sales
+ADK7171,46,"44,807",PhD,finance
+ADK7172,56,"33,610",Master,research
+ADK7173,52,"37,632",Bachelor,customer support
+ADK7174,25,"71,430",Bachelor,operations
+ADK7175,60,"51,371",Bachelor,customer support
+ADK7176,55,"42,465",Bachelor,human resource
+ADK7177,32,"64,605",Master,sales
+ADK7178,18,"64,969",Master,finance
+ADK7179,50,"42,865",Bachelor,marketing
+ADK7180,20,"35,421",PhD,operations
+ADK7181,56,"26,442",Master,operations
+ADK7182,55,"23,092",Bachelor,operations
+ADK7183,32,"46,025",Bachelor,customer support
+ADK7184,59,"36,602",High School,marketing
+ADK7185,35,"77,877",High School,customer support
+ADK7186,55,"50,878",Master,sales
+ADK7187,48,"20,868",High School,research
+ADK7188,37,"71,281",High School,operations
+ADK7189,24,"52,426",Master,operations
+ADK7190,54,"60,575",Master,research
+ADK7191,44,"60,231",Bachelor,finance
+ADK7192,25,"54,448",Bachelor,human resource
+ADK7193,31,"57,850",Master,customer support
+ADK7194,32,"53,581",Master,operations
+ADK7195,24,"33,404",Bachelor,marketing
+ADK7196,50,"55,501",Master,marketing
+ADK7197,51,"65,359",PhD,sales
+ADK7198,21,"46,849",PhD,customer support
+ADK7199,18,"58,270",Master,human resource
+ADK7200,58,"56,294",High School,operations
+ADK7201,31,"77,235",Master,research
+ADK7202,48,"46,209",PhD,marketing
+ADK7203,55,"45,620",PhD,marketing
+ADK7204,37,"48,246",Bachelor,marketing
+ADK7205,20,"48,464",Master,sales
+ADK7206,52,"15,911",Bachelor,sales
+ADK7207,63,"40,361",High School,customer support
+ADK7208,50,"54,498",High School,operations
+ADK7209,32,"49,876",PhD,operations
+ADK7210,20,"38,010",Master,sales
+ADK7211,45,"40,028",PhD,research
+ADK7212,44,"44,666",Bachelor,operations
+ADK7213,64,"37,976",Master,research
+ADK7214,64,"42,304",Bachelor,research
+ADK7215,50,"41,909",Master,human resource
+ADK7216,36,"63,431",High School,marketing
+ADK7217,50,"65,246",Master,operations
+ADK7218,48,"64,004",Bachelor,human resource
+ADK7219,21,"56,401",Master,research
+ADK7220,49,"39,375",PhD,human resource
+ADK7221,59,"64,397",Bachelor,customer support
+ADK7222,45,"45,286",Master,human resource
+ADK7223,33,"50,346",Master,operations
+ADK7224,60,"70,073",Bachelor,operations
+ADK7225,45,"51,260",High School,human resource
+ADK7226,32,"53,709",High School,human resource
+ADK7227,39,"28,808",High School,finance
+ADK7228,48,"57,305",Master,operations
+ADK7229,38,"35,300",Bachelor,human resource
+ADK7230,49,"65,179",Master,sales
+ADK7231,24,"47,231",Bachelor,human resource
+ADK7232,50,"16,457",High School,human resource
+ADK7233,25,"44,630",Master,marketing
+ADK7234,31,"46,579",Master,sales
+ADK7235,42,"57,282",High School,research
+ADK7236,49,"60,058",Bachelor,marketing
+ADK7237,45,"45,084",Master,operations
+ADK7238,19,"65,193",High School,operations
+ADK7239,34,"2,494",Bachelor,customer support
+ADK7240,44,"39,290",PhD,human resource
+ADK7241,19,"33,315",Master,customer support
+ADK7242,25,"31,187",High School,operations
+ADK7243,55,"64,396",PhD,finance
+ADK7244,37,"62,438",Master,marketing
+ADK7245,54,"38,363",Bachelor,research
+ADK7246,38,"67,671",High School,human resource
+ADK7247,43,"51,522",PhD,human resource
+ADK7248,48,"43,675",PhD,marketing
+ADK7249,37,"39,606",Master,human resource
+ADK7250,23,"38,326",PhD,human resource
+ADK7251,32,"57,092",High School,sales
+ADK7252,18,"59,752",High School,marketing
+ADK7253,43,"53,578",High School,customer support
+ADK7254,46,"19,247",PhD,human resource
+ADK7255,19,"54,445",Bachelor,customer support
+ADK7256,39,"58,481",High School,research
+ADK7257,46,"39,962",Bachelor,sales
+ADK7258,26,"50,649",High School,research
+ADK7259,58,"22,042",High School,human resource
+ADK7260,38,"31,550",Master,human resource
+ADK7261,49,"45,136",Bachelor,human resource
+ADK7262,49,"45,354",Bachelor,sales
+ADK7263,64,"55,275",Bachelor,sales
+ADK7264,61,"32,196",High School,sales
+ADK7265,57,"44,882",PhD,operations
+ADK7266,43,"42,653",PhD,human resource
+ADK7267,30,"57,920",PhD,sales
+ADK7268,20,"71,316",Bachelor,operations
+ADK7269,49,"75,814",Master,sales
+ADK7270,50,"26,473",Bachelor,finance
+ADK7271,50,"49,280",Master,customer support
+ADK7272,59,"33,312",Bachelor,finance
+ADK7273,59,"49,029",Master,marketing
+ADK7274,30,"56,344",High School,sales
+ADK7275,60,"51,222",PhD,human resource
+ADK7276,23,"49,265",PhD,operations
+ADK7277,21,"72,246",High School,research
+ADK7278,55,"60,815",Bachelor,human resource
+ADK7279,23,"45,910",PhD,marketing
+ADK7280,20,"50,363",High School,operations
+ADK7281,44,"63,063",PhD,sales
+ADK7282,57,"59,147",Master,finance
+ADK7283,37,"43,624",Bachelor,operations
+ADK7284,35,"23,371",High School,finance
+ADK7285,37,"32,230",Bachelor,operations
+ADK7286,47,"52,190",Master,research
+ADK7287,27,"23,202",Bachelor,sales
+ADK7288,40,"47,714",PhD,human resource
+ADK7289,64,"43,196",Bachelor,customer support
+ADK7290,20,"64,989",High School,customer support
+ADK7291,26,"30,229",Master,marketing
+ADK7292,36,"21,023",Master,sales
+ADK7293,53,"43,705",High School,sales
+ADK7294,57,"59,521",Master,human resource
+ADK7295,44,"66,049",PhD,operations
+ADK7296,59,"36,360",PhD,finance
+ADK7297,45,"57,054",Bachelor,human resource
+ADK7298,60,"33,329",PhD,human resource
+ADK7299,25,"38,768",High School,sales
+ADK7300,59,"58,514",Bachelor,finance
+ADK7301,25,"60,772",PhD,customer support
+ADK7302,35,"35,009",High School,human resource
+ADK7303,38,"57,123",PhD,marketing
+ADK7304,63,"21,973",High School,marketing
+ADK7305,30,"46,960",Bachelor,customer support
+ADK7306,44,"32,986",High School,sales
+ADK7307,64,"37,885",High School,operations
+ADK7308,57,"30,859",PhD,sales
+ADK7309,33,"58,304",Bachelor,research
+ADK7310,57,"58,308",High School,finance
+ADK7311,26,"39,632",PhD,operations
+ADK7312,44,"55,634",PhD,marketing
+ADK7313,34,"53,919",PhD,operations
+ADK7314,20,"48,073",PhD,operations
+ADK7315,21,"82,373",PhD,operations
+ADK7316,57,"37,387",Bachelor,operations
+ADK7317,18,"50,215",PhD,research
+ADK7318,31,"44,264",Master,marketing
+ADK7319,25,"44,423",PhD,operations
+ADK7320,24,"52,391",Master,customer support
+ADK7321,47,"45,584",Bachelor,customer support
+ADK7322,42,"37,094",High School,finance
+ADK7323,56,"51,863",PhD,sales
+ADK7324,33,"67,735",PhD,finance
+ADK7325,28,"64,141",PhD,human resource
+ADK7326,42,"53,046",Bachelor,customer support
+ADK7327,50,"38,969",Master,research
+ADK7328,38,"52,796",PhD,marketing
+ADK7329,27,"66,270",Bachelor,sales
+ADK7330,26,"67,868",Bachelor,research
+ADK7331,18,"55,395",Master,research
+ADK7332,51,"44,535",PhD,sales
+ADK7333,48,"46,959",Bachelor,customer support
+ADK7334,38,"61,581",PhD,marketing
+ADK7335,41,"60,295",Bachelor,marketing
+ADK7336,36,"23,635",Bachelor,operations
+ADK7337,38,"59,879",Bachelor,human resource
+ADK7338,42,"60,669",Bachelor,marketing
+ADK7339,37,"36,692",Master,finance
+ADK7340,43,"38,525",High School,customer support
+ADK7341,24,"38,643",Bachelor,research
+ADK7342,20,"39,796",Master,customer support
+ADK7343,57,"28,749",PhD,customer support
+ADK7344,25,"54,696",Bachelor,marketing
+ADK7345,47,"38,214",Master,finance
+ADK7346,28,"48,944",Bachelor,human resource
+ADK7347,25,"42,536",High School,customer support
+ADK7348,54,"53,828",Bachelor,research
+ADK7349,34,"34,841",High School,human resource
+ADK7350,25,"53,679",PhD,operations
+ADK7351,64,"55,847",Bachelor,human resource
+ADK7352,61,"62,414",High School,finance
+ADK7353,47,"79,517",Master,marketing
+ADK7354,60,"18,618",Master,sales
+ADK7355,60,"54,805",Bachelor,marketing
+ADK7356,33,"39,363",High School,sales
+ADK7357,21,"21,124",Bachelor,human resource
+ADK7358,38,"62,624",Bachelor,customer support
+ADK7359,51,"69,983",Bachelor,customer support
+ADK7360,57,"44,126",Master,customer support
+ADK7361,52,"53,164",Bachelor,human resource
+ADK7362,30,"49,039",Master,finance
+ADK7363,60,"56,513",PhD,customer support
+ADK7364,44,"63,208",Bachelor,human resource
+ADK7365,25,"55,174",Master,customer support
+ADK7366,58,"55,187",Bachelor,sales
+ADK7367,59,"68,896",Bachelor,marketing
+ADK7368,46,"47,530",Master,sales
+ADK7369,33,"63,846",Master,marketing
+ADK7370,60,"37,670",High School,finance
+ADK7371,63,"74,106",Bachelor,finance
+ADK7372,22,"61,067",Bachelor,operations
+ADK7373,54,"43,944",High School,customer support
+ADK7374,57,"18,282",PhD,operations
+ADK7375,57,"49,995",Master,marketing
+ADK7376,59,"32,273",PhD,sales
+ADK7377,27,"54,495",Master,operations
+ADK7378,32,"71,768",High School,finance
+ADK7379,38,"52,401",Bachelor,sales
+ADK7380,51,"47,330",High School,sales
+ADK7381,39,"55,133",Master,research
+ADK7382,39,"54,285",PhD,sales
+ADK7383,26,"14,557",PhD,operations
+ADK7384,43,"53,614",Master,research
+ADK7385,30,"59,304",Master,sales
+ADK7386,35,"46,110",High School,operations
+ADK7387,18,"64,678",Bachelor,customer support
+ADK7388,40,"48,085",Master,finance
+ADK7389,50,"61,505",Bachelor,customer support
+ADK7390,64,"84,097",Master,research
+ADK7391,48,"48,554",PhD,marketing
+ADK7392,38,"20,868",Master,operations
+ADK7393,40,"44,951",PhD,sales
+ADK7394,33,"24,112",PhD,research
+ADK7395,44,"59,169",Master,finance
+ADK7396,54,"69,640",PhD,operations
+ADK7397,55,"60,438",PhD,operations
+ADK7398,31,"54,805",Master,marketing
+ADK7399,54,"40,326",Bachelor,finance
+ADK7400,64,"73,635",High School,finance
+ADK7401,24,"61,299",Master,marketing
+ADK7402,29,"54,267",PhD,customer support
+ADK7403,45,"53,073",Bachelor,sales
+ADK7404,20,"51,674",Master,sales
+ADK7405,39,"56,783",High School,research
+ADK7406,38,"40,800",PhD,sales
+ADK7407,46,"72,879",Master,marketing
+ADK7408,37,"52,285",Master,operations
+ADK7409,20,"59,001",High School,human resource
+ADK7410,44,"43,496",PhD,sales
+ADK7411,38,"55,624",Master,sales
+ADK7412,58,"15,774",PhD,human resource
+ADK7413,50,"33,226",Bachelor,sales
+ADK7414,47,"49,529",Master,research
+ADK7415,56,"30,163",High School,operations
+ADK7416,58,"86,591",High School,finance
+ADK7417,26,"24,979",Master,finance
+ADK7418,55,"55,189",Master,operations
+ADK7419,40,"74,837",Master,customer support
+ADK7420,40,"57,219",Master,sales
+ADK7421,18,"45,347",High School,customer support
+ADK7422,38,"41,718",High School,sales
+ADK7423,49,"60,099",PhD,human resource
+ADK7424,62,"37,996",Bachelor,customer support
+ADK7425,43,"48,208",Master,operations
+ADK7426,50,"60,368",High School,research
+ADK7427,26,"45,382",Master,research
+ADK7428,34,"51,313",Bachelor,finance
+ADK7429,23,"45,439",High School,customer support
+ADK7430,63,"35,453",High School,finance
+ADK7431,24,"67,837",Bachelor,sales
+ADK7432,24,"70,896",Bachelor,finance
+ADK7433,54,"45,250",Bachelor,customer support
+ADK7434,22,"46,016",Master,customer support
+ADK7435,50,"47,332",Master,customer support
+ADK7436,27,"58,082",PhD,sales
+ADK7437,34,"36,420",Bachelor,finance
+ADK7438,57,"48,672",Bachelor,finance
+ADK7439,45,"53,944",High School,human resource
+ADK7440,64,"59,631",Bachelor,marketing
+ADK7441,63,"8,287",Bachelor,finance
+ADK7442,39,"56,051",High School,human resource
+ADK7443,38,"55,188",Bachelor,finance
+ADK7444,64,"65,116",High School,marketing
+ADK7445,49,"42,106",PhD,finance
+ADK7446,49,"42,225",PhD,operations
+ADK7447,53,"68,038",Bachelor,operations
+ADK7448,48,"26,553",PhD,finance
+ADK7449,23,"74,436",Bachelor,customer support
+ADK7450,38,"88,338",High School,research
+ADK7451,52,"57,162",PhD,research
+ADK7452,31,"62,211",Master,operations
+ADK7453,40,"27,656",Bachelor,sales
+ADK7454,59,"39,582",Master,sales
+ADK7455,41,"65,868",High School,marketing
+ADK7456,47,"55,427",Bachelor,human resource
+ADK7457,27,"47,279",High School,operations
+ADK7458,22,"53,493",High School,customer support
+ADK7459,59,"57,605",Master,sales
+ADK7460,47,"45,604",Bachelor,marketing
+ADK7461,24,"49,566",Bachelor,customer support
+ADK7462,23,"49,455",Master,finance
+ADK7463,25,"34,216",Bachelor,operations
+ADK7464,43,"54,854",Bachelor,research
+ADK7465,35,"77,054",Master,marketing
+ADK7466,53,"75,979",Bachelor,operations
+ADK7467,43,"27,854",PhD,finance
+ADK7468,53,"58,559",Master,sales
+ADK7469,58,"60,133",Master,finance
+ADK7470,21,"43,842",PhD,finance
+ADK7471,30,"35,537",High School,customer support
+ADK7472,41,"30,188",Master,customer support
+ADK7473,48,"43,329",Master,research
+ADK7474,39,"55,250",High School,sales
+ADK7475,57,"47,629",High School,marketing
+ADK7476,35,"40,836",PhD,marketing
+ADK7477,51,"31,263",Master,research
+ADK7478,40,"55,261",Master,research
+ADK7479,56,"65,998",High School,customer support
+ADK7480,64,"36,096",High School,marketing
+ADK7481,54,"56,726",High School,research
+ADK7482,64,"21,808",High School,research
+ADK7483,18,"40,138",PhD,marketing
+ADK7484,59,"60,944",Master,customer support
+ADK7485,37,"33,233",Bachelor,finance
+ADK7486,64,"40,933",Bachelor,finance
+ADK7487,42,"71,270",Bachelor,customer support
+ADK7488,23,"39,007",PhD,operations
+ADK7489,47,"37,191",Master,finance
+ADK7490,37,"58,638",PhD,sales
+ADK7491,26,"79,321",PhD,customer support
+ADK7492,35,"46,405",Master,operations
+ADK7493,57,"61,531",High School,research
+ADK7494,20,"70,187",PhD,research
+ADK7495,53,"54,883",Master,marketing
+ADK7496,23,"45,951",Bachelor,customer support
+ADK7497,61,"36,855",PhD,marketing
+ADK7498,55,"28,622",Master,research
+ADK7499,18,"66,676",High School,customer support
+ADK7500,36,"52,714",High School,marketing
+ADK7501,55,"69,992",PhD,human resource
+ADK7502,45,"64,834",PhD,sales
+ADK7503,64,"40,745",Master,research
+ADK7504,26,"32,197",Master,marketing
+ADK7505,64,"56,190",High School,human resource
+ADK7506,27,"40,512",Master,sales
+ADK7507,41,"55,650",PhD,customer support
+ADK7508,43,"39,033",Bachelor,marketing
+ADK7509,25,"37,082",Bachelor,marketing
+ADK7510,22,"47,885",High School,human resource
+ADK7511,30,"64,012",PhD,human resource
+ADK7512,39,"54,598",PhD,research
+ADK7513,51,"67,676",Master,finance
+ADK7514,42,"31,497",Bachelor,customer support
+ADK7515,40,"34,144",Master,sales
+ADK7516,58,"48,663",Bachelor,marketing
+ADK7517,38,"82,486",Master,research
+ADK7518,20,"60,114",PhD,marketing
+ADK7519,25,"34,001",PhD,finance
+ADK7520,63,"48,858",High School,operations
+ADK7521,56,"53,311",Master,customer support
+ADK7522,56,"41,470",PhD,customer support
+ADK7523,39,"59,199",PhD,human resource
+ADK7524,62,"47,653",Master,customer support
+ADK7525,28,"45,510",High School,human resource
+ADK7526,40,"68,904",PhD,research
+ADK7527,33,"24,355",High School,customer support
+ADK7528,45,"35,573",Bachelor,finance
+ADK7529,52,"37,740",High School,marketing
+ADK7530,59,"37,285",Bachelor,finance
+ADK7531,46,"39,069",Bachelor,marketing
+ADK7532,55,"57,327",Bachelor,customer support
+ADK7533,23,"66,448",High School,customer support
+ADK7534,31,"63,741",Bachelor,operations
+ADK7535,46,"34,707",Bachelor,research
+ADK7536,45,"48,389",High School,human resource
+ADK7537,27,"56,784",High School,marketing
+ADK7538,63,"53,600",Bachelor,sales
+ADK7539,64,"69,586",High School,customer support
+ADK7540,21,"39,870",High School,sales
+ADK7541,41,"52,345",Master,marketing
+ADK7542,19,"44,102",High School,human resource
+ADK7543,63,"53,766",Master,human resource
+ADK7544,46,"33,817",Master,sales
+ADK7545,42,"36,066",High School,marketing
+ADK7546,48,"39,048",Master,customer support
+ADK7547,64,"41,545",Bachelor,sales
+ADK7548,63,"73,219",PhD,finance
+ADK7549,32,"67,631",PhD,marketing
+ADK7550,55,"46,810",PhD,marketing
+ADK7551,50,"52,594",Bachelor,operations
+ADK7552,25,"26,083",Bachelor,research
+ADK7553,57,"47,311",Master,operations
+ADK7554,33,"52,394",Master,finance
+ADK7555,55,"67,185",High School,operations
+ADK7556,61,"54,902",PhD,sales
+ADK7557,58,"56,493",Master,marketing
+ADK7558,51,"54,466",Bachelor,sales
+ADK7559,23,"54,035",Master,sales
+ADK7560,56,"29,049",Bachelor,human resource
+ADK7561,57,"43,749",Bachelor,operations
+ADK7562,40,"71,523",High School,human resource
+ADK7563,38,"62,358",High School,operations
+ADK7564,52,"57,414",Master,sales
+ADK7565,64,"51,001",PhD,human resource
+ADK7566,46,"59,892",Master,finance
+ADK7567,52,"35,827",High School,marketing
+ADK7568,19,"26,299",Master,human resource
+ADK7569,50,"44,269",Bachelor,customer support
+ADK7570,43,"58,069",Bachelor,research
+ADK7571,61,"51,617",Master,finance
+ADK7572,49,"65,209",Master,sales
+ADK7573,35,"55,272",Master,finance
+ADK7574,51,"50,673",Bachelor,finance
+ADK7575,47,"69,912",Bachelor,marketing
+ADK7576,61,"66,986",Master,marketing
+ADK7577,40,"48,529",High School,human resource
+ADK7578,37,"33,454",Master,human resource
+ADK7579,63,"36,390",Bachelor,operations
+ADK7580,40,"47,578",PhD,customer support
+ADK7581,57,"44,498",PhD,customer support
+ADK7582,25,"74,866",High School,research
+ADK7583,31,"24,798",Bachelor,human resource
+ADK7584,40,"49,036",Master,marketing
+ADK7585,63,"34,007",High School,operations
+ADK7586,31,"51,752",Master,customer support
+ADK7587,19,"55,734",Master,customer support
+ADK7588,21,"43,927",Bachelor,research
+ADK7589,41,"57,957",PhD,human resource
+ADK7590,53,"47,021",Bachelor,research
+ADK7591,26,"47,309",High School,finance
+ADK7592,33,"43,732",Master,customer support
+ADK7593,49,"59,762",PhD,operations
+ADK7594,49,"52,078",Master,finance
+ADK7595,44,"73,599",Master,sales
+ADK7596,32,"69,050",Master,finance
+ADK7597,21,"58,307",High School,marketing
+ADK7598,53,"17,608",Bachelor,customer support
+ADK7599,42,"27,735",High School,human resource
+ADK7600,32,"64,794",High School,research
+ADK7601,29,"42,865",PhD,operations
+ADK7602,24,"53,523",Master,research
+ADK7603,53,"40,543",Bachelor,sales
+ADK7604,41,"57,768",High School,sales
+ADK7605,23,"64,370",High School,sales
+ADK7606,58,"31,856",PhD,operations
+ADK7607,62,"37,796",Master,marketing
+ADK7608,48,"25,044",Master,customer support
+ADK7609,38,"53,501",Bachelor,customer support
+ADK7610,28,"25,021",PhD,customer support
+ADK7611,33,"44,509",High School,sales
+ADK7612,31,"57,794",High School,research
+ADK7613,42,"80,871",PhD,research
+ADK7614,31,"55,526",Master,finance
+ADK7615,55,"68,793",Master,human resource
+ADK7616,35,"53,887",High School,research
+ADK7617,31,"54,639",Master,sales
+ADK7618,41,"46,836",PhD,finance
+ADK7619,25,"44,251",PhD,human resource
+ADK7620,62,"67,616",Master,finance
+ADK7621,42,"55,620",Master,human resource
+ADK7622,51,"55,044",Bachelor,human resource
+ADK7623,62,"40,877",Master,finance
+ADK7624,61,"44,824",High School,research
+ADK7625,45,"81,012",High School,customer support
+ADK7626,41,"48,987",Bachelor,marketing
+ADK7627,35,"69,893",Master,operations
+ADK7628,51,"42,196",PhD,customer support
+ADK7629,59,"62,023",Bachelor,research
+ADK7630,20,"54,347",PhD,customer support
+ADK7631,29,"43,944",PhD,research
+ADK7632,53,"59,728",High School,sales
+ADK7633,22,"26,848",Master,finance
+ADK7634,36,"58,619",High School,human resource
+ADK7635,29,"61,804",Bachelor,human resource
+ADK7636,44,"54,096",Bachelor,operations
+ADK7637,34,"69,664",High School,customer support
+ADK7638,60,"48,978",Master,marketing
+ADK7639,45,"47,763",Bachelor,customer support
+ADK7640,57,"55,326",Master,customer support
+ADK7641,39,"63,016",Bachelor,finance
+ADK7642,27,"58,548",Bachelor,operations
+ADK7643,58,"46,601",High School,human resource
+ADK7644,23,"35,072",PhD,customer support
+ADK7645,34,"59,952",Master,human resource
+ADK7646,29,"38,156",High School,marketing
+ADK7647,23,"37,726",High School,sales
+ADK7648,60,"40,180",High School,operations
+ADK7649,39,"50,866",Bachelor,marketing
+ADK7650,33,"38,056",Master,sales
+ADK7651,21,"32,965",Master,customer support
+ADK7652,42,"40,117",High School,sales
+ADK7653,50,"47,250",Master,customer support
+ADK7654,18,"56,814",High School,finance
+ADK7655,32,"51,009",Bachelor,operations
+ADK7656,34,"33,793",Bachelor,finance
+ADK7657,60,"53,430",High School,research
+ADK7658,36,"54,841",Master,finance
+ADK7659,36,"43,176",Master,research
+ADK7660,37,"38,056",High School,marketing
+ADK7661,18,"38,051",Bachelor,research
+ADK7662,40,"42,023",PhD,sales
+ADK7663,33,"83,214",Bachelor,marketing
+ADK7664,41,"36,664",Master,marketing
+ADK7665,37,"53,990",High School,human resource
+ADK7666,32,"39,288",Master,finance
+ADK7667,41,"42,410",Master,marketing
+ADK7668,54,"39,408",High School,operations
+ADK7669,58,"62,018",High School,research
+ADK7670,50,"55,687",Bachelor,operations
+ADK7671,49,"48,060",Master,sales
+ADK7672,48,"57,544",Master,customer support
+ADK7673,32,"61,152",Master,research
+ADK7674,18,"37,239",Master,marketing
+ADK7675,29,"58,209",PhD,customer support
+ADK7676,52,"39,236",High School,sales
+ADK7677,54,"62,569",High School,finance
+ADK7678,47,"61,103",Master,human resource
+ADK7679,43,"56,056",Master,operations
+ADK7680,28,"46,851",Master,research
+ADK7681,49,"42,108",Master,marketing
+ADK7682,19,"46,046",PhD,marketing
+ADK7683,27,"61,537",Master,research
+ADK7684,63,"39,765",PhD,human resource
+ADK7685,39,"50,745",Master,finance
+ADK7686,26,"23,786",Master,customer support
+ADK7687,47,"53,906",PhD,customer support
+ADK7688,42,"34,467",High School,operations
+ADK7689,38,"30,228",Master,operations
+ADK7690,35,"57,781",Master,customer support
+ADK7691,37,"53,155",Bachelor,sales
+ADK7692,57,"43,349",High School,research
+ADK7693,33,"45,469",High School,research
+ADK7694,56,"84,066",PhD,finance
+ADK7695,52,"47,088",PhD,finance
+ADK7696,46,"46,982",Master,human resource
+ADK7697,63,"59,785",PhD,sales
+ADK7698,47,"51,308",PhD,research
+ADK7699,20,"64,811",PhD,finance
+ADK7700,49,"54,162",PhD,finance
+ADK7701,31,"61,416",Bachelor,sales
+ADK7702,43,"56,650",High School,research
+ADK7703,22,"59,680",Master,sales
+ADK7704,45,"49,360",Master,research
+ADK7705,25,"53,338",Bachelor,research
+ADK7706,62,"45,934",Master,finance
+ADK7707,50,"59,063",PhD,marketing
+ADK7708,53,"29,809",Bachelor,human resource
+ADK7709,30,"60,892",PhD,finance
+ADK7710,37,"64,970",Master,operations
+ADK7711,35,"61,126",High School,sales
+ADK7712,37,"48,439",Master,customer support
+ADK7713,60,"57,578",PhD,human resource
+ADK7714,50,"38,351",PhD,customer support
+ADK7715,38,"62,557",Master,operations
+ADK7716,63,"33,512",High School,sales
+ADK7717,41,"58,906",PhD,marketing
+ADK7718,45,"57,990",Master,research
+ADK7719,22,"56,101",High School,finance
+ADK7720,47,"43,294",Bachelor,sales
+ADK7721,60,"61,402",Master,finance
+ADK7722,41,"22,441",PhD,research
+ADK7723,56,"61,658",High School,finance
+ADK7724,31,"52,872",PhD,customer support
+ADK7725,53,"65,764",PhD,sales
+ADK7726,53,"53,001",PhD,finance
+ADK7727,43,"77,573",High School,operations
+ADK7728,30,"35,873",High School,sales
+ADK7729,57,"59,141",High School,customer support
+ADK7730,38,"36,710",Bachelor,customer support
+ADK7731,43,"48,104",High School,customer support
+ADK7732,51,"61,136",Bachelor,sales
+ADK7733,57,"59,381",High School,marketing
+ADK7734,31,"81,193",Bachelor,finance
+ADK7735,38,"44,729",Bachelor,marketing
+ADK7736,60,"69,290",High School,finance
+ADK7737,64,"46,185",Master,operations
+ADK7738,36,"39,486",High School,marketing
+ADK7739,29,"25,656",High School,human resource
+ADK7740,53,"52,440",High School,research
+ADK7741,47,"42,180",High School,marketing
+ADK7742,61,"62,713",PhD,operations
+ADK7743,50,"42,074",High School,sales
+ADK7744,61,"42,851",Master,marketing
+ADK7745,40,"55,320",PhD,human resource
+ADK7746,58,"75,818",Master,operations
+ADK7747,30,"33,670",PhD,finance
+ADK7748,45,"65,264",PhD,marketing
+ADK7749,45,"63,112",Master,finance
+ADK7750,36,"46,686",PhD,sales
+ADK7751,54,"60,131",High School,finance
+ADK7752,48,"45,736",Bachelor,research
+ADK7753,59,"85,571",Master,marketing
+ADK7754,56,"48,319",Master,customer support
+ADK7755,34,"51,206",High School,human resource
+ADK7756,45,"45,113",High School,human resource
+ADK7757,21,"24,598",Master,operations
+ADK7758,23,"46,053",PhD,sales
+ADK7759,36,"53,481",PhD,operations
+ADK7760,40,"72,514",Bachelor,human resource
+ADK7761,57,"57,379",Bachelor,customer support
+ADK7762,62,"47,159",PhD,marketing
+ADK7763,59,"50,899",High School,sales
+ADK7764,23,"54,910",Bachelor,finance
+ADK7765,41,"44,316",High School,customer support
+ADK7766,39,"60,234",High School,finance
+ADK7767,38,"74,376",High School,finance
+ADK7768,31,"44,553",High School,human resource
+ADK7769,41,"68,113",High School,human resource
+ADK7770,42,"63,145",Master,operations
+ADK7771,34,"58,059",High School,research
+ADK7772,63,"51,679",PhD,marketing
+ADK7773,52,"55,067",Bachelor,customer support
+ADK7774,34,"46,739",Bachelor,finance
+ADK7775,45,"77,553",Master,finance
+ADK7776,19,"39,224",Master,sales
+ADK7777,51,"67,024",PhD,finance
+ADK7778,18,"73,246",Bachelor,research
+ADK7779,64,"45,153",PhD,customer support
+ADK7780,20,"67,488",PhD,finance
+ADK7781,39,"52,160",High School,sales
+ADK7782,59,"50,935",High School,marketing
+ADK7783,21,"48,882",PhD,marketing
+ADK7784,32,"25,794",PhD,sales
+ADK7785,53,"58,219",Master,operations
+ADK7786,56,"71,653",PhD,customer support
+ADK7787,29,"39,429",PhD,finance
+ADK7788,54,"62,710",High School,marketing
+ADK7789,58,"48,722",Master,finance
+ADK7790,24,"33,610",PhD,customer support
+ADK7791,48,"64,968",Bachelor,human resource
+ADK7792,22,"75,291",PhD,marketing
+ADK7793,44,"38,086",Bachelor,research
+ADK7794,42,"53,237",PhD,customer support
+ADK7795,34,"28,404",Master,marketing
+ADK7796,45,"49,370",Bachelor,human resource
+ADK7797,44,"57,291",Bachelor,operations
+ADK7798,43,"76,294",High School,operations
+ADK7799,46,"73,364",PhD,operations
+ADK7800,44,"74,637",Master,operations
+ADK7801,34,"42,094",PhD,finance
+ADK7802,55,"46,323",Master,operations
+ADK7803,33,"25,035",High School,sales
+ADK7804,26,"39,273",Bachelor,customer support
+ADK7805,49,"28,223",PhD,finance
+ADK7806,18,"55,483",Master,operations
+ADK7807,26,"39,545",Bachelor,finance
+ADK7808,24,"33,479",Bachelor,sales
+ADK7809,61,"44,669",Master,finance
+ADK7810,54,"32,227",Bachelor,customer support
+ADK7811,57,"54,635",Master,customer support
+ADK7812,62,"54,267",High School,sales
+ADK7813,23,"45,264",Master,research
+ADK7814,54,"39,040",Master,human resource
+ADK7815,56,"29,908",PhD,operations
+ADK7816,21,"58,330",High School,marketing
+ADK7817,54,"53,431",PhD,marketing
+ADK7818,27,"56,965",Bachelor,research
+ADK7819,27,"45,403",PhD,sales
+ADK7820,52,"46,731",High School,marketing
+ADK7821,25,"71,630",Master,sales
+ADK7822,40,"40,991",High School,finance
+ADK7823,24,"45,310",PhD,finance
+ADK7824,19,"61,158",Master,research
+ADK7825,55,"54,544",High School,finance
+ADK7826,37,"19,301",Master,customer support
+ADK7827,48,"24,682",Master,research
+ADK7828,47,"40,088",PhD,finance
+ADK7829,42,"63,654",High School,customer support
+ADK7830,27,"60,075",Bachelor,human resource
+ADK7831,34,"57,793",Bachelor,human resource
+ADK7832,26,"59,416",Master,operations
+ADK7833,60,"151,553",Master,research
+ADK7834,49,"230,052",High School,marketing
+ADK7835,41,"153,936",Bachelor,customer support
+ADK7836,33,"247,365",Master,research
+ADK7837,63,"174,472",Bachelor,human resource
+ADK7838,29,"214,081",Master,research
+ADK7839,52,"106,275",PhD,customer support
+ADK7840,60,"132,556",Master,human resource
+ADK7841,64,"254,534",Bachelor,sales
+ADK7842,63,"234,587",High School,operations
+ADK7843,45,"34,953",Bachelor,sales
